@@ -1,5 +1,5 @@
-# Dice Game
-## inroduction
+# [Dice Game](https://online-dice-game.herokuapp.com/)
+## Inroduction
 This is a online Dice game. 
 Two players play it at a time. player who score 100 first wins the game.
 Play with your friends and have fun.
